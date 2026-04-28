@@ -265,7 +265,7 @@ Insight Ticker highlights:
  📸 Dashboard Preview
 
  Page 1 — Overview
-  Pizza  Sales/Screenshort1.png
+  [Pizza  Sales/Screenshort1.png](https://github.com/JMounika-24/Pizza-Sales-Dashboard/blob/main/Pizza%20%20Sales/Screenshort1.png)
 
  Page 2 — Best / Worst Sellers
   Pizza  Sales/Screenshort2.png
