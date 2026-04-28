@@ -268,22 +268,7 @@ Insight Ticker highlights:
   [Pizza  Sales/Screenshort1.png](https://github.com/JMounika-24/Pizza-Sales-Dashboard/blob/main/Pizza%20%20Sales/Screenshort1.png)
 
  Page 2 — Best / Worst Sellers
-  Pizza  Sales/Screenshort2.png
+  [Pizza  Sales/Screenshort2.png](https://github.com/JMounika-24/Pizza-Sales-Dashboard/blob/main/Pizza%20%20Sales/Screenshot2.png)
 
----
 
-📁 Files in this Repository
-
-| File | Description |
-|------|-------------|
-| `Pizza_Sales.sql`     | SQL queries for KPI validation — Revenue, Orders, Trends, Top/Bottom 5 sellers |
-| `Pizza_Sale.csv`      | Raw transactional data source |
-| `Pizza_Sales.pbix`    | Power BI report file |
-| `Screenshort1.png`    | Dashboard preview — Overview page |
-| `Screenshot2.png`     | Dashboard preview — Best/Worst Sellers page |
-| `README.md`           | Project documentation |
-
----
-
-Data Period: Jan – Dec 2015 · 48,620 transactions analysed · Built with SQL Server + Power BI
 
