@@ -265,10 +265,10 @@ Insight Ticker highlights:
  📸 Dashboard Preview
 
  Page 1 — Overview
-![Pizza Sales Dashboard - Overview](Screenshort1.png)
+  Pizza  Sales/Screenshort1.png
 
  Page 2 — Best / Worst Sellers
-![Pizza Sales Dashboard - Best/Worst Sellers](Screenshot2.png)
+  Pizza  Sales/Screenshort2.png
 
 ---
 
