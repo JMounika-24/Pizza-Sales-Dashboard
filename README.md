@@ -3,6 +3,7 @@
 Recommended Structure and Order
 
 1. Project Title / Headline
+
 🍕 Pizza Sales Analytics: End-to-End SQL Server + Power BI Dashboard
 
 A complete end-to-end data analytics project covering the full pipeline — from raw data ingestion and KPI validation in SQL Server, to building an interactive two-page sales performance dashboard in Power BI — analysing 48,620 pizza transactions across January to December 2015.
