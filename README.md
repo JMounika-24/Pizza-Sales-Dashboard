@@ -30,6 +30,15 @@ The dashboard covers revenue trends, order patterns, category and size breakdown
 
 ---
 
+## 🗂️ Project Structure
+
+```
+telecom-customer-churn/
+│
+├── 📓 Pizza Sales Dashboard     # Main analysis script 
+├── 📁 Pizza Sales.zip           # Datase - 48,620
+└── 📄 README.md                 # Project documentation
+
 4. 📂 Data Source
 
 Source: `Pizza_Sale.csv` — internal restaurant transactional data
@@ -266,10 +275,10 @@ Insight Ticker highlights:
  📸 Dashboard Preview
 
  Page 1 — Overview
-  [Pizza  Sales/Screenshort1.png](https://github.com/JMounika-24/Pizza-Sales-Dashboard/blob/main/Pizza%20%20Sales/Screenshort1.png)
+  [Pizza  Sales Dashboard/Screenshort1.png](https://github.com/JMounika-24/Pizza-Sales-Dashboard/blob/main/Pizza%20%20Sales/Screenshort1.png)
 
  Page 2 — Best / Worst Sellers
-  [Pizza  Sales/Screenshort2.png](https://github.com/JMounika-24/Pizza-Sales-Dashboard/blob/main/Pizza%20%20Sales/Screenshot2.png)
+  [Pizza  Sales Dashboard/Screenshort2.png](https://github.com/JMounika-24/Pizza-Sales-Dashboard/blob/main/Pizza%20%20Sales/Screenshot2.png)
 
 
 
